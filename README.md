@@ -15,7 +15,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 My personal social links profile available for everyone to see, by simply **clicking** or **navigating via keyboard**. A challenge on Frontend Mentory.
 
 ### Screenshot
-![]()
+![Screenshot](social-links-profile.PNG)
 
 ### Links
 - Solution URL: [Solution URL here]()
