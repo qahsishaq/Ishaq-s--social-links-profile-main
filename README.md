@@ -12,7 +12,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 -[Author](#author)
 -[Acknowledgments](#acknowledgements)
 ## The challenge
-My personal social links profile available for everyone to see, by simply **clicking** or **navigating via keyboard**. A challenge on Frontend Mentory.
+My personal social links profile available for everyone to see, by simply **clicking** or **navigating via keyboard**. A challenge on Frontend Mentor.
 
 ### Screenshot
 ![Screenshot](social-links-profile.PNG)
