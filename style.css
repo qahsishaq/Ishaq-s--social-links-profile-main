@@ -61,7 +61,7 @@ main h3 {
   justify-content: space-around;
 }
 .btn {
-  width: 100%;
+  width: 95%;
   margin: auto;
   background-color: hsl(0, 0%, 20%);
   border: none;
