@@ -23,7 +23,7 @@ My personal social links profile available for everyone to see, by simply **clic
 
 ### What I learned
 
-I familiarised myself with the css pseudo-classes and also learnt how to make keys trigger events; This allows anyone that visits the website to navigate the links by using the keyboard also.
+I familiarised myself with the css pseudo-classes and also learnt how to make keys trigger events; This allows anyone that visits the website to navigate the links by using the keyboard also. Focus on the first link to navigate with the keyboard.
 
 ```css
 .proud-of-this-css{
