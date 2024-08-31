@@ -18,8 +18,8 @@ My personal social links profile available for everyone to see, by simply **clic
 ![Screenshot](social-links-profile.PNG)
 
 ### Links
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Solution URL: [Solution URL here](https://github.com/qahsishaq/Social-links-profile.git)
+- Live Site URL: [Live site URL here](https://social-links-profile-ishaq-ishaqs-projects.vercel.app/)
 
 ### What I learned
 
