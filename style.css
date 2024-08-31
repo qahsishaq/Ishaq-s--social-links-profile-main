@@ -57,7 +57,6 @@ main h3 {
   height: 68%;
   display: flex;
   margin-top: 2rem;
-  background-color: red;
   flex-direction: column;
   justify-content: space-around;
 }
