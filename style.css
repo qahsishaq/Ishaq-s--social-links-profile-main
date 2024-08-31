@@ -69,11 +69,12 @@ main h3 {
   border-radius: 0.5rem;
 }
 
-.btn a {
+.btn  {
   color: white;
   font-weight: 600;
   font-size: calc(0.9rem + 0.2vw);
   text-decoration: none;
+  text-align: center;
 }
 .btn:hover {
   opacity: 0.5;
@@ -87,7 +88,7 @@ main h3 {
   cursor: progress;
   background: hsl(75, 94%, 57%);
 }
-.btn:active a {
+.btn:active  {
   color: hsl(0, 0%, 8%);
   cursor: progress;
 }
